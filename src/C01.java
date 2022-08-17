@@ -3,7 +3,6 @@ public class C01 {
         System.out.println("Deneme 01");
         System.out.println("Deneme 02");
         System.out.println("Deneme 03");
-        System.out.println("Deneme 05");
 
 
     }
